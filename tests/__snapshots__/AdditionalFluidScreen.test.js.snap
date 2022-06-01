@@ -1,0 +1,167 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AdditionalFluidScreen should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "yellowgreen",
+        "fontSize": 22,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    Please choose the fluid category 
+    
+
+     
+  </Text>
+  <View
+    style={
+      Object {
+        "alignSelf": "center",
+        "width": "90%",
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "yellowgreen",
+          "borderColor": "#fff",
+          "borderRadius": 25,
+          "justifyContent": "center",
+          "marginVertical": 10,
+          "opacity": 1,
+          "padding": 15,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 20,
+              "fontWeight": "bold",
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            },
+            Object {
+              "fontSize": 15,
+            },
+          ]
+        }
+      >
+        Auto Fluids
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "yellowgreen",
+          "borderColor": "#fff",
+          "borderRadius": 25,
+          "justifyContent": "center",
+          "marginVertical": 10,
+          "opacity": 1,
+          "padding": 15,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 20,
+              "fontWeight": "bold",
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            },
+            Object {
+              "fontSize": 15,
+            },
+          ]
+        }
+      >
+        Cooking Oil
+      </Text>
+    </View>
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "yellowgreen",
+          "borderColor": "#fff",
+          "borderRadius": 25,
+          "justifyContent": "center",
+          "marginVertical": 10,
+          "opacity": 1,
+          "padding": 15,
+          "width": "100%",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#fff",
+              "fontSize": 20,
+              "fontWeight": "bold",
+              "textAlign": "center",
+              "textTransform": "uppercase",
+            },
+            Object {
+              "fontSize": 15,
+            },
+          ]
+        }
+      >
+        Used Motor Oil and Filters
+      </Text>
+    </View>
+  </View>
+</View>
+`;

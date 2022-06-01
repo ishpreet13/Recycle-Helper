@@ -1,0 +1,318 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlasticScreen should render correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "flex": 1,
+        "paddingTop": 20,
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "flex": 1,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "marginBottom": 20,
+          "marginTop": 20,
+          "paddingLeft": 2,
+          "paddingRight": 2,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "yellowgreen",
+            "fontFamily": "Avenir",
+            "fontSize": 22,
+            "fontWeight": "bold",
+            "margin": 10,
+            "textAlign": "center",
+          }
+        }
+      >
+        Select Plastic Category for Recycle Instructions
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "width": "90%",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "yellowgreen",
+            "borderColor": "#fff",
+            "borderRadius": 25,
+            "justifyContent": "center",
+            "marginVertical": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "fontSize": 20,
+              },
+            ]
+          }
+        >
+          Packing Peanuts
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "yellowgreen",
+            "borderColor": "#fff",
+            "borderRadius": 25,
+            "justifyContent": "center",
+            "marginVertical": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "fontSize": 20,
+              },
+            ]
+          }
+        >
+          Plastic Containers
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "yellowgreen",
+            "borderColor": "#fff",
+            "borderRadius": 25,
+            "justifyContent": "center",
+            "marginVertical": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "fontSize": 20,
+              },
+            ]
+          }
+        >
+          Plastic Bags
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "yellowgreen",
+            "borderColor": "#fff",
+            "borderRadius": 25,
+            "justifyContent": "center",
+            "marginVertical": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "fontSize": 20,
+              },
+            ]
+          }
+        >
+          Plastic Cap and Lids
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "yellowgreen",
+            "borderColor": "#fff",
+            "borderRadius": 25,
+            "justifyContent": "center",
+            "marginVertical": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "fontSize": 20,
+              },
+            ]
+          }
+        >
+          Plastic Jugs and Bottles
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "yellowgreen",
+            "borderColor": "#fff",
+            "borderRadius": 25,
+            "justifyContent": "center",
+            "marginVertical": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "fontSize": 20,
+              },
+            ]
+          }
+        >
+          Plastic Wrap and Film
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

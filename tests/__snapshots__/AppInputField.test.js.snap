@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AppInputField /> should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "borderColor": "#000",
+      "borderRadius": 20,
+      "borderStyle": "solid",
+      "borderWidth": 1,
+      "flexDirection": "row",
+      "marginBottom": 10,
+      "padding": 12,
+      "width": "100%",
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    collapsable={false}
+    onGestureHandlerEvent={[Function]}
+    onGestureHandlerStateChange={[Function]}
+    placeholderTextColor="#a9a9a9"
+    rejectResponderTermination={true}
+    style={
+      Object {
+        "flex": 1,
+        "fontSize": 18,
+        "width": "100%",
+      }
+    }
+    underlineColorAndroid="transparent"
+  />
+</View>
+`;

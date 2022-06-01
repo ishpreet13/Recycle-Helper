@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WelcomeScreen should render correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "height": "100%",
+    }
+  }
+>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      Object {
+        "alignItems": "center",
+        "flex": 1,
+        "justifyContent": "flex-end",
+      }
+    }
+  >
+    <Image
+      blurRadius={0.72}
+      source={1}
+      style={
+        Array [
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          Object {
+            "height": undefined,
+            "width": undefined,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "position": "absolute",
+          "top": 70,
+        }
+      }
+    >
+      <Image
+        source={1}
+        style={
+          Object {
+            "height": 150,
+            "width": 150,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 25,
+            "fontWeight": "600",
+            "paddingVertical": 20,
+          }
+        }
+      >
+        Recycle Helper
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "padding": 20,
+          "width": "100%",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "lightblue",
+            "borderColor": "#fff",
+            "borderRadius": 25,
+            "justifyContent": "center",
+            "marginVertical": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "fontSize": 20,
+              },
+            ]
+          }
+        >
+          Login
+        </Text>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "lightblue",
+            "borderColor": "#fff",
+            "borderRadius": 25,
+            "justifyContent": "center",
+            "marginVertical": 10,
+            "opacity": 1,
+            "padding": 15,
+            "width": "100%",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "color": "#fff",
+                "fontSize": 20,
+                "fontWeight": "bold",
+                "textAlign": "center",
+                "textTransform": "uppercase",
+              },
+              Object {
+                "fontSize": 20,
+              },
+            ]
+          }
+        >
+          Sign Up
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;

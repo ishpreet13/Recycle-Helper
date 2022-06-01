@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ErrorMessage /> should render correctly 1`] = `
+<Text
+  style={
+    Object {
+      "color": "#000",
+      "fontSize": 18,
+      "fontWeight": "600",
+      "marginBottom": 10,
+    }
+  }
+>
+  ⚠️ 
+  Fake Error
+</Text>
+`;
